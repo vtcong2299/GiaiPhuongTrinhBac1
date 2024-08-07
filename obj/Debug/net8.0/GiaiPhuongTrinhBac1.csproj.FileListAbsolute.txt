@@ -1,0 +1,14 @@
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\bin\Debug\net8.0\GiaiPhuongTrinhBac1.exe
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\bin\Debug\net8.0\GiaiPhuongTrinhBac1.deps.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\bin\Debug\net8.0\GiaiPhuongTrinhBac1.runtimeconfig.json
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\bin\Debug\net8.0\GiaiPhuongTrinhBac1.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\bin\Debug\net8.0\GiaiPhuongTrinhBac1.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\obj\Debug\net8.0\GiaiPhuongTrinhBac1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\obj\Debug\net8.0\GiaiPhuongTrinhBac1.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\obj\Debug\net8.0\GiaiPhuongTrinhBac1.AssemblyInfo.cs
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\obj\Debug\net8.0\GiaiPhuongTrinhBac1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\obj\Debug\net8.0\GiaiPhuongTrinhBac1.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\obj\Debug\net8.0\refint\GiaiPhuongTrinhBac1.dll
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\obj\Debug\net8.0\GiaiPhuongTrinhBac1.pdb
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\obj\Debug\net8.0\GiaiPhuongTrinhBac1.genruntimeconfig.cache
+C:\Users\admin\Documents\HocLapTrinh\CongTapCode\C#\BaiTapCodeGym\GiaiPhuongTrinhBac1\obj\Debug\net8.0\ref\GiaiPhuongTrinhBac1.dll
